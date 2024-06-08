@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PJATK_APBD_COLO.props" />
+</Project>
